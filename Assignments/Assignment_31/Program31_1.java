@@ -43,7 +43,7 @@ class Pattern
                 }
                 else
                 {
-                    //System.out.printf("*\t");
+                    System.out.printf("*\t");
                 }
             }
             System.out.println();
