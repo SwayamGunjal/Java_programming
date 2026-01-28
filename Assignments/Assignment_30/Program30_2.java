@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : Pattern
-//      Description :   It prints '*' on and below the diagonal and '#' above it.
+//      Description :   It prints '*' in a reversed left triangle and '#' in the remaining upper area.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

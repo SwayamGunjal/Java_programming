@@ -1,8 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : Pattern
-//      Description :   It prints a repeated pattern in the format:  #  number  *
-//                      The numbers increase sequentially starting from 1.
+//      Description :   It prints the first N even numbers.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

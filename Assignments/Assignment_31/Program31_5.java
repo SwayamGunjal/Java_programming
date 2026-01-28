@@ -13,8 +13,8 @@
  
 Input :     
 
-    iRow :  5
-    iCol :  5
+    iRow :  4
+    iCol :  4
 
 Output :    
 

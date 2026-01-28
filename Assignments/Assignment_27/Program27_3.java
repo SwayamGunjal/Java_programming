@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : Pattern
-//      Description :   It prints a number matrix where each row contains 1 to the given number of columns.
+//      Description :   It prints a number matrix where each row contains the column numbers in reverse order.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

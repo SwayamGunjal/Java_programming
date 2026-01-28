@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : printEvenNumbers
-//      Description :   It is used to print the multiplication table of a number.
+//      Description :   It is used to print even numbers upto N.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

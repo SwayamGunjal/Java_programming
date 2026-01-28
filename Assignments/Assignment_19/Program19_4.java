@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : printDigits
-//      Description :   It is used to check whether a number is divisible by 5 and 11 or not.
+//      Description :   It is used to print digits of a given number.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

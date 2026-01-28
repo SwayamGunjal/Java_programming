@@ -1,11 +1,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//      Function name : Pattern
-//      Description :   It prints a hollow rectangle where the border shows column numbers and the inside shows '*'.
+//      Function name : Display
+//      Description :   It prints a left-aligned triangular pattern of '*' characters.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal
-//      Date :          21/11/2025
+//      Date :          22/11/2025
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 

@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : checkDivisible
-//      Description :   It is used to check whether a number is positive, negative, or zero.
+//      Description :   It is used to check whether a number is divisible by 5 and 11 or not.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal
@@ -21,7 +21,7 @@ class Logic
         {
             System.out.println(num+" is not divisible by 5");
         }
-        
+
         if(num % 11 == 0)
         {
             System.out.println(num+" is divisible by 11");

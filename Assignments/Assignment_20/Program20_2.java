@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : printReverse
-//      Description :   It is used to calculate sum of even numbers upto n number.
+//      Description :   It is used to print numbers from N down to 1 in reverse order.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

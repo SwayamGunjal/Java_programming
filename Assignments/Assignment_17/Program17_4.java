@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : findMin
-//      Description :   It is used to find maximum of two numbers.
+//      Description :   It is used to find minimum of three numbers.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : Pattern
-//      Description :   It prints a matrix of '*' with the given number of rows and columns.
+//      Description :   It prints a number matrix where each row contains 1 to the given number of columns.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal

@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //      Function name : Pattern
-//      Description :   It prints even numbers on odd rows and odd numbers on even rows.
+//      Description :   It prints alphabets on odd rows and numbers on even rows.
 //      Input :         Integer
 //      Output :        Void
 //      Author :        Swayam Satish Gunjal
