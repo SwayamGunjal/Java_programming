@@ -39,6 +39,6 @@ class program56_5
         System.out.println("Enter Directory Path :");
         String str = sc.nextLine();
 
-        DisplayDirectory(str);
+        DisplayDirectory(str); 
     }
 }
